@@ -27,7 +27,7 @@ Math Formula
 #### Triangle
 
 **Area of Triangle**
-  - File: [`one.py`](Triangle/Area Of Triangle/one.py)
+  - File: [`one.py`](https://github.com/Sulagna-pradhan/Math-Formula/Triangle/AreaOfTriangle/one.py)
     - Description: Calculation of triangle area using base and height.
 
   - File: `two.py`
