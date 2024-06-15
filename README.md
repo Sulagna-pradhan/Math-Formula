@@ -27,13 +27,11 @@ Math Formula
 #### Triangle
 
 **Area of Triangle**
-- **Using Base and Height**
   - File: `one.py`
     - Description: Calculation of triangle area using base and height.
 
-- **Using Heron's Formula**
   - File: `two.py`
-    - Description: Implementation of Heron's formula for triangle area.
+    - Description: Calculation of triangle area using Heron's formula.
 
 **Perimeter of Triangle**
 - **Using Side Lengths**
